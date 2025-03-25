@@ -1,0 +1,2 @@
+-- Add a new blip by copying and modifying the following line:
+-- {x = 600.0, y = 600.0, z = 200.0, name = "Location 5", sprite = 5, color = 4},  -- New custom blip
